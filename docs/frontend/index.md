@@ -7,21 +7,21 @@ Welcome to the project documentation! This page provides an overview of all avai
 
 ### React
 
-- [React with Create React App](./frontend/react/react-cli.md)
-- [React with Vite](./frontend/react/react-vite.md)
+- [React with Create React App](./react/react-cli.md)
+- [React with Vite](./react/react-vite.md)
 
 ### Vue
 
-- [Vue with Vue CLI](./frontend/vue/vue-cli.md)
-- [Vue with Vite](./frontend/vue/vue-vite.md)
+- [Vue with Vue CLI](./vue/vue-cli.md)
+- [Vue with Vite](./vue/vue-vite.md)
 
 ### Angular
 
-- [Angular Project Setup with Angular CLI](./frontend/angular/angular-cli.md)
+- [Angular Project Setup with Angular CLI](./angular/angular-cli.md)
 
 ### Svelte
 
-- [Svelte Project Setup with SvelteKit](./frontend/svelte/svelte-cli.md)
+- [Svelte Project Setup with SvelteKit](./svelte/svelte-cli.md)
 
 ## Understanding Clean Architecture in Front-End Frameworks
 
