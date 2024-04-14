@@ -1,5 +1,5 @@
 
-# General Project Documentation Index
+# General Project Documentation
 
 Welcome to the comprehensive project documentation index. This document serves as a central hub linking to detailed documentation for both frontend and backend parts of our projects. Our commitment to best practices like Clean Architecture ensures scalability, maintainability, and ease of testing across all our codebases.
 
